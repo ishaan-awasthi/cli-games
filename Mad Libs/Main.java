@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println();
-        System.out.println("WELCOME TO MADLIBS!");
+        System.out.println("WELCOME TO MAD LIBS!");
         System.out.println();
         System.out.print("Enter a noun: ");
         String input1 = input.nextLine();
